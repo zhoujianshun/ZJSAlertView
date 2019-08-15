@@ -1,0 +1,6 @@
+framework module Pods_ZJSAlertViewDemo {
+  umbrella header "Pods-ZJSAlertViewDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
